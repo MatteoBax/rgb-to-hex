@@ -19,5 +19,4 @@ if(hex){
 
 ```
 npm i rgb-to-hex-converter
-npm i rgb-to-hex-converter
 ```
