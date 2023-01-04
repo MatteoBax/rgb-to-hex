@@ -1,4 +1,5 @@
 # rgb-to-hex-converter
+# rgb-to-hex-converter
 Converts an rgb color to hex color
 
 
@@ -18,5 +19,6 @@ if(hex){
 ## Installation
 
 ```
+npm i rgb-to-hex-converter
 npm i rgb-to-hex-converter
 ```
