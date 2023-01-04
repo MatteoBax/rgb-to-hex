@@ -1,5 +1,5 @@
 {
-  "name": "rgb-to-hex",
+  "name": "rgb-to-hex-converter",
   "version": "1.0.0",
   "description": "Converts an rgb color to hex color",
   "main": "main.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatteoBax/rgb-to-hex.git"
+    "url": "git+https://github.com/MatteoBax/rgb-to-hex-converter.git"
   },
   "author": "matteobax",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatteoBax/rgb-to-hex/issues"
+    "url": "https://github.com/MatteoBax/rgb-to-hex-converter/issues"
   },
-  "homepage": "https://github.com/MatteoBax/rgb-to-hex#readme"
+  "homepage": "https://github.com/MatteoBax/rgb-to-hex-converter#readme"
 }

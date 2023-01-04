@@ -1,4 +1,4 @@
-# rgb-to-hex
+# rgb-to-hex-converter
 Converts an rgb color to hex color
 
 
@@ -6,8 +6,8 @@ Converts an rgb color to hex color
 ## Usage
 
 ```javascript
-const convert = require('rgb-to-hex').convertToHex;
-let hex = convert(255,255,255);
+const convert = require('rgb-to-hex-converter').convertToHex;
+let hex = convert(255,255,255); //convert(r,g,b)
 if(hex){
     console.log(hex)
 }else{
@@ -18,5 +18,5 @@ if(hex){
 ## Installation
 
 ```
-npm i rgb-to-hex
+npm i rgb-to-hex-converter
 ```
