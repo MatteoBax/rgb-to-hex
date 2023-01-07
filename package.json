@@ -10,8 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/MatteoBax/rgb-to-hex-converter.git"
   },
+  "keywords": [
+    "rgb",
+    "hex",
+    "convert",
+    "colors"
+  ],
   "author": "matteobax",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MatteoBax/rgb-to-hex-converter/issues"
   },
