@@ -1,5 +1,5 @@
 function zFill(n){
-    return n.padStart('2', 0);
+    return n.padStart(2, '0');
 }
 function convertToHex(r,g,b){
     // Converto ad int i valori delle variabili r g b a causa di un bug con le stringhe
