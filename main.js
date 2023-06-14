@@ -2,7 +2,7 @@ function zFill(n){
     return n.padStart(2, '0');
 }
 function convertToHex(r,g,b){
-    // Converto ad int i valori delle variabili r g b a causa di un bug con le stringhe
+    // Converto ad int i valori delle variabili r g b per effettuare i controlli
     r = parseInt(r);
     g = parseInt(g);
     b = parseInt(b);
